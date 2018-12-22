@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="main.js"></script>
+<head></head>
+<style>
+h1,h3 {
+  color: white;
+  font-family: Comic sans ms;
+  text-shadow: 2px 2px 2px grey;
+}
+marquee {
+  width: 300px;
+}
+div {
+  text-align: center;
+  color: white;
+  font-family: Comic sans ms;
+  text-shadow: 4px 4px 4px green;
+}
+button{
+    font-family: Comic sans ms;
+    color: grey;
+    height:30px;
+    width:100px;
+    margin: -20px -50px;
+    position:relative;
+    top:50%;
+    left:50%;
+    padding: 5px;
+    background-color: white;
+}
+</style>
+<body background="foods.png">
+  <h1> <center> <marquee behavior="alternate">Where to Eat? </marquee></center></h1>
+  <h3> <center> San Diego, CA </center> </h3>
+  <h3> <center> Fast Food </center> </h3>
+  <div id="fastDisplay">
+  </div><br>
+  <button onclick="fastfood()"> Choose </button>
+
+  <h3> <center> Sit-Down Restaurants </center> </h3>
+  <div id="sitdownDisplay">
+  </div><br>
+  <button onclick="sitdownfoods()"> Choose </button>
+
+  <h3> <center> Dessert </center> </h3>
+  <div id="dessertDisplay">
+  </div><br>
+  <button onclick="desserts()"> Choose </button>
+
+  <script src="main.js"></script>
+</body>
+</html>
