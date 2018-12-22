@@ -13,8 +13,8 @@ var sitdown = ['Koon Thai', 'Pho La Jolla', 'Red Robins', 'RakiRaki Ramen',
               'Mama Mia Pizza Restaurant','Michelines Pita House'
 ]
 
-var sweets = ['MNGO', 'ICMonster', 'Little Dipper', 'Freeze', 'Boboi Gelato',
-              '85C Bakery','iDessert','ShareTea', 'Boba Bar', 'Cauldron Ice Cream',
+var sweets = ['<a href="https://www.yelp.com/biz/mngo-cafe-san-diego">MNGO</a>', '<a href="https://www.yelp.com/biz/icmonster-san-diego-6">ICMonster</a>', '<a href="https://www.yelp.com/biz/lil-dipper-san-diego-2">Lil Dipper</a>', '<a href="https://www.yelp.com/biz/freeze-san-diego-san-diego-2?osq=freeze">Freeze</a>', '<a href="https://www.yelp.com/biz/bobboi-natural-gelato-la-jolla">Bobboi Natural Gelato</a>',
+              '<a href="https://www.yelp.com/biz/85-c-bakery-cafe-san-diego-7?osq=85c+Bakery+Cafe">85C Bakery</a>','<a href="https://www.yelp.com/biz/idessert-by-jean-philippe-san-diego?osq=idessert">iDessert</a>','<a href="https://www.yelp.com/biz/sharetea-san-diego-2?osq=sharetea">Sharetea</a>', '<a href="https://www.yelp.com/biz/boba-bar-and-desserts-san-diego-2?osq=boba+bar">Boba Bar</a>', '<a href="https://www.yelp.com/biz/cauldron-ice-cream-san-diego-6">Cauldron Ice Cream</a>',
               'SomiSomi'
 ]
 
