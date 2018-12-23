@@ -3,14 +3,14 @@ var fast = ['In-N-Out', 'Taco Bell', 'Sonic','McDonalds', 'Five Guys', 'Del Sush
 
 ]
 
-var sitdown = ['Koon Thai', 'Pho La Jolla', 'Red Robins', 'RakiRaki Ramen',
-              'Regents Pizza', 'BJs', 'Snooze', 'Chipotle', 'Din Tai Fung',
-              'Cross Street','Tacos El Gordo','The Taco Stand','Phils BBQ',
-              'Taste of the Himalayas','Raising Canes', 'Sab-E-Lee', 'Star Anise',
-              'Dirty Birds', 'Sizzling Pot King', 'Tribute Pizza', 'Tasty Pot',
-              'Hodads', '100s Seafood Grill Buffet', 'Puesto', 'Oscars Mexican Seafood',
-              'Poki One N Half', 'Sushi Ki', 'The Melting Pot', 'Volare Italian Restaurant',
-              'Mama Mia Pizza Restaurant','Michelines Pita House'
+var sitdown = ['Koon Thai Kitchen (4 Stars, 1300+ Reviews)', 'Pho La Jolla (3 Stars, 850+ Reviews)', 'Red Robins (3.5 Stars, 600+ Reviews)', 'RakiRaki Ramen (4 Stars, 3000+ Reviews)',
+              'Regents Pizzeria (4 Stars, 900+ Reviews)', 'BJs (3.5 Stars, 250+ Reviews)', 'Snooze (4 Stars, 500+ Reviews)', 'Chipotle (3 Stars, 300+ Reviews)', 'Din Tai Fung (4.5 Stars, 500+ Reviews)',
+              'Cross Street Chicken(4.5 Stars, 800+ Reviews)','Tacos El Gordo (4.5 Stars, 3900+ Reviews)','The Taco Stand (4.5 Stars, 2500+ Reviews)','Phils BBQ (4.5 Stars, 13,000+ Reviews)',
+              'Taste of the Himalayas (3.5 Stars, 350+ Reviews)','Raising Canes (3.5 Stars, 400+ Reviews)', 'Sab-E-Lee (4 Stars, 450+ Reviews)', 'Star Anise (3.5 Stars, 650+ Reviews)',
+              'Dirty Birds (4 Stars, 1000+ Reviews)', 'Sizzling Pot King (4 Stars, 350+ Reviews)', 'Tribute Pizza (4.5 Stars, 400+ Reviews)', 'Tasty Pot (4 Stars, 350+ Reviews)',
+              'Hodads (4 Stars, 5000+ Reviews)', '100s Seafood Grill Buffet (4 Stars, 750+ Reviews)', 'Puesto (4 Stars, 2000+ Reviews)', 'Oscars Mexican Seafood (4.5 Stars, 2500+ Reviews)',
+              'Poki One N Half (4.5 Stars, 150+ Reviews)', 'Sushi Ki (3.5 Stars, 850+ Reviews)', 'The Melting Pot (4 Stars, 1000+ Reviews)', 'Volare Italian Restaurant (4 Stars, 550+ Reviews)',
+              'Mamma Mia Pizza Restaurant (3.5 Stars, 600+ Reviews)','Michelines Pita House (4.5 Stars, 450+ Reviews)','Buffalo Wild Wings (3 Stars, 300+ Reviews)'
 ]
 
 var sweets = ['<a href="https://www.yelp.com/biz/mngo-cafe-san-diego">MNGO</a>', '<a href="https://www.yelp.com/biz/icmonster-san-diego-6">ICMonster</a>', '<a href="https://www.yelp.com/biz/lil-dipper-san-diego-2">Lil Dipper</a>', '<a href="https://www.yelp.com/biz/freeze-san-diego-san-diego-2?osq=freeze">Freeze</a>', '<a href="https://www.yelp.com/biz/bobboi-natural-gelato-la-jolla">Bobboi Natural Gelato</a>',
